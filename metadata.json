@@ -1,0 +1,6 @@
+{
+  "name": "Online Tunnel",
+  "description": "A futuristic Cyberpunk VPN Client App.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
